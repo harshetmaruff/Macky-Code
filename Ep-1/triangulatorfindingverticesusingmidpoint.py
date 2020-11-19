@@ -7,10 +7,6 @@ class point:
 		self.x = x
 		self.y = y
 
-
-def ApplyMidPointFormula(a1, a2):
-	return (a1 + a2)/2
-
 #print("Let A")
 print("Please write the value of the midpoint which is between A to B")
 midpoint1x = int(input("write point of x: "))
